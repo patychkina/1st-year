@@ -1,0 +1,7 @@
+﻿  ИЗ.ПиОТА.2.cpp
+C:\Users\Liza_\OneDrive\Рабочий стол\ИЗ.ПиОТА.2\ИЗ.ПиОТА.2.cpp(234,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 283 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ИЗ.ПиОТА.2.vcxproj -> C:\Users\Liza_\OneDrive\Рабочий стол\ИЗ.ПиОТА.2\x64\Release\ИЗ.ПиОТА.2.exe
